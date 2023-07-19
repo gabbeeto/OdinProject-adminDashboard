@@ -1,0 +1,43 @@
+/*face logo section*/
+
+svg{
+width: 100px;
+height: 100px;
+}
+
+.a{
+fill:#010101
+}
+
+
+.b{
+fill:#ffcf8b
+}
+
+
+.c{
+fill:#793815
+}
+
+
+.e{
+fill:#fcfcfc
+}
+
+
+
+/*magnifying glass section*/
+
+main > section > svg:first-of-type{
+width: 15px;
+height: 15px;
+}
+
+
+
+/*bell section*/
+.white{
+fill: white;
+}
+
+

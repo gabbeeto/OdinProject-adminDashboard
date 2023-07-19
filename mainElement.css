@@ -1,0 +1,22 @@
+main{
+display:grid;
+}
+
+main > section:first-of-type{
+grid-area: search;
+}
+
+
+main > section:nth-of-type(2){
+grid-area: profile;
+}
+
+main > section:nth-of-type(2) > img{
+border-radius: 100px;
+}
+
+
+
+main > section:nth-of-type(3){
+grid-area: button;
+}
