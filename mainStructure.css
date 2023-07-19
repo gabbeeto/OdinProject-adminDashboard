@@ -17,12 +17,12 @@ background-color: var(--black);
 color: var(--white);
 display: grid;
 grid-template: 'header main' 1fr / 1fr 5fr; 
-width: 100vw;
 height: 100vh;
 }
 
 header{
 grid-area: header;
+height: 100vh;
 }
 
 header > ul{

@@ -29,13 +29,20 @@ fill:#fcfcfc
 /*magnifying glass section*/
 
 main > section > svg:first-of-type{
-width: 15px;
-height: 15px;
+width: 10%;
+height: 40%;
 }
 
 
 
 /*bell section*/
+
+
+main > section > svg:nth-of-type(2){
+width: 10%;
+height: 40%;
+}
+
 .white{
 fill: white;
 }
